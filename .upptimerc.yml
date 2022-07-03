@@ -8,8 +8,6 @@ sites:
     url: https://prevhelp.de
   - name: p.prevhelp.de
     url: https://p.prevhelp.de
-  - name: z.prevhelp.de
-    url: https://z.prevhelp.de
   - name: prevhelp.com
     url: https://prevhelp.com
   - name: PrevHelp Termine
@@ -48,4 +46,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "* * * * *"
