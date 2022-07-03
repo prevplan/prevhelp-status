@@ -6,8 +6,6 @@ user-agent: pyyjac
 sites:
   - name: prevhelp.de
     url: https://prevhelp.de
-  - name: p.prevhelp.de
-    url: https://p.prevhelp.de
   - name: prevhelp.com
     url: https://prevhelp.com
   - name: PrevHelp Termine
