@@ -40,18 +40,20 @@
     "url": "https://z.prevhelp.de",
     "icon": "https://favicons.githubusercontent.com/z.prevhelp.de",
     "slug": "z-prevhelp-de",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 654,
     "timeDay": 654,
     "timeWeek": 654,
     "timeMonth": 654,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "prevhelp.com",
