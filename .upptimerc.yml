@@ -12,6 +12,11 @@ sites:
     url: https://termine.prevhelp.de
   - name: PrevHelp Support
     url: https://support.prevhelp.de
+  - name: PrevHelp Ticket System
+    url: https://support.prevhelp.de/api/v1/monitoring/health_check?token=$ZAMMAD_TOKEN
+    headers:
+      - "Content-Type: application/json"
+    body: '{"healthy"=>true, "message"=>"success", "token"=>"$ZAMMAD_TOKEN"}'
 assignees:
   - pyyjac
 
