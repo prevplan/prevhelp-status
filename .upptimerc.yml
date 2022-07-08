@@ -17,6 +17,10 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"healthy":true,"message":"success","issues":[],"actions":[],"token":"$ZAMMAD_TOKEN"}'
+  - name: SMTP Server
+    check: "tcp-ping"
+    url: mail.prevmail.de
+    port: 25
 assignees:
   - pyyjac
 
