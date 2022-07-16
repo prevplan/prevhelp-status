@@ -21,6 +21,10 @@ sites:
     check: "tcp-ping"
     url: mail.prevmail.de
     port: 25
+  - name: TOR Node
+    check: "tcp-ping"
+    url: $TOR_IP
+    port: 9001
 assignees:
   - pyyjac
 
