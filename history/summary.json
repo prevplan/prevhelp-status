@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 986,
-    "timeWeek": 797,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "time": 730,
+    "timeDay": 559,
+    "timeWeek": 798,
+    "timeMonth": 730,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 862,
-    "timeWeek": 676,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 648,
+    "timeDay": 484,
+    "timeWeek": 673,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 1048,
-    "timeWeek": 810,
-    "timeMonth": 814,
-    "timeYear": 814,
+    "time": 810,
+    "timeDay": 704,
+    "timeWeek": 805,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 612,
-    "timeDay": 557,
-    "timeWeek": 576,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "time": 607,
+    "timeDay": 431,
+    "timeWeek": 573,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2022-07-14": 55
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.59%",
-    "time": 173,
-    "timeDay": 213,
+    "time": 171,
+    "timeDay": 131,
     "timeWeek": 190,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {
       "2022-07-14": 55,
       "2022-07-08": 13
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 199,
-    "timeWeek": 166,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 154,
+    "timeDay": 101,
+    "timeWeek": 164,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -117,19 +117,19 @@
     "url": "$TOR_IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tor-node",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 179,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "status": "up",
+    "uptime": "97.45%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
+    "time": 143,
+    "timeDay": 104,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-07-19": 0
+      "2022-07-19": 112
     }
   }
 ]
