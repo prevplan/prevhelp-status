@@ -1,7 +1,7 @@
 # Change these first
 owner: prevplan # Your GitHub organization or username, where this repository lives
 repo: prevhelp-status # The name of this repository
-user-agent: pyyjac
+user-agent: ruaq
 
 sites:
   - name: prevhelp.de
@@ -26,7 +26,7 @@ sites:
     url: $TOR_IP
     port: 9001
 assignees:
-  - pyyjac
+  - ruaq
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
