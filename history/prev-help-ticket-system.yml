@@ -1,7 +1,7 @@
 url: https://support.prevhelp.de/api/v1/monitoring/health_check?token=$ZAMMAD_TOKEN
 status: up
 code: 200
-responseTime: 177
-lastUpdated: 2023-01-14T23:01:18.963Z
+responseTime: 184
+lastUpdated: 2023-01-15T23:01:14.189Z
 startTime: Fri Jul 08 2022 08:53:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
