@@ -14,7 +14,7 @@ sites:
     url: https://support.prevhelp.de
   - name: PrevHelp Ticket System
     url: https://support.prevhelp.de/api/v1/monitoring/health_check?token=$ZAMMAD_TOKEN
-    __dangerous__body_down_if_text_missing: "{"healthy":true,"message":"success","issues":[],"actions":[],"token":"$ZAMMAD_TOKEN"}"
+    __dangerous__body_down_if_text_missing: {"healthy":true,"message":"success","issues":[],"actions":[],"token":"$ZAMMAD_TOKEN"}
   - name: SMTP Server
     check: "tcp-ping"
     url: mail.prevmail.de
