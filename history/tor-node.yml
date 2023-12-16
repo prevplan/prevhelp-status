@@ -1,7 +1,7 @@
 url: $TOR_IP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-15T23:02:16.986Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2023-12-16T00:39:56.048Z
 startTime: 2022-07-16T22:17:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
