@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prevhelp.de.ico",
     "slug": "prevhelp-de",
     "status": "down",
-    "uptime": "68.13%",
+    "uptime": "68.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.51%",
-    "time": 740,
+    "uptimeYear": "12.43%",
+    "time": 741,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 727,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2025-04-19": 1079,
+      "2025-04-20": 22,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -345,17 +346,17 @@
     "slug": "prevhelp-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "99.46%",
     "time": 396,
-    "timeDay": 528,
-    "timeWeek": 389,
-    "timeMonth": 463,
-    "timeYear": 386,
+    "timeDay": 135,
+    "timeWeek": 394,
+    "timeMonth": 466,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-04-19": 30,
+      "2025-04-19": 22,
       "2025-04-15": 30,
       "2025-04-13": 18,
       "2025-04-10": 37,
@@ -431,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/termine.prevhelp.de.ico",
     "slug": "prev-help-termine",
     "status": "down",
-    "uptime": "38.82%",
+    "uptime": "38.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -442,7 +443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 1079,
+      "2025-04-20": 22,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -805,8 +807,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   },
   {
@@ -815,7 +816,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.prevhelp.de.ico",
     "slug": "prev-help-support",
     "status": "down",
-    "uptime": "40.70%",
+    "uptime": "40.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -826,7 +827,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 1079,
+      "2025-04-20": 22,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1189,8 +1191,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   },
   {
@@ -1199,7 +1200,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.prevhelp.de.ico",
     "slug": "prev-help-ticket-system",
     "status": "down",
-    "uptime": "36.85%",
+    "uptime": "36.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1210,7 +1211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 1079,
+      "2025-04-20": 22,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1573,8 +1575,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   },
   {
@@ -1583,7 +1584,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-server",
     "status": "down",
-    "uptime": "40.78%",
+    "uptime": "40.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1594,7 +1595,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-19": 1079,
+      "2025-04-20": 22,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
@@ -1957,8 +1959,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   },
   {
@@ -1967,18 +1968,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tor-node",
     "status": "down",
-    "uptime": "58.64%",
+    "uptime": "58.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.31%",
-    "time": 228,
+    "uptimeYear": "13.24%",
+    "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 344,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2025-04-19": 1079,
+      "2025-04-20": 23,
+      "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
