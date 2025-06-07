@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prevhelp.de.ico",
     "slug": "prevhelp-de",
     "status": "down",
-    "uptime": "65.05%",
+    "uptime": "65.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2025-06-07": 231,
+      "2025-06-07": 439,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -388,19 +388,19 @@
     "url": "https://prevhelp.com",
     "icon": "https://icons.duckduckgo.com/ip3/prevhelp.com.ico",
     "slug": "prevhelp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "97.08%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "97.07%",
     "uptimeMonth": "98.41%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 434,
     "timeDay": 321,
     "timeWeek": 201,
     "timeMonth": 541,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2025-06-07": 20,
+      "2025-06-07": 21,
       "2025-06-06": 68,
       "2025-06-05": 88,
       "2025-06-04": 15,
@@ -470,8 +470,7 @@
       "2025-02-12": 15,
       "2025-02-11": 42,
       "2025-02-10": 16,
-      "2025-02-07": 19,
-      "2025-02-06": 28
+      "2025-02-07": 19
     }
   },
   {
@@ -480,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/termine.prevhelp.de.ico",
     "slug": "prev-help-termine",
     "status": "down",
-    "uptime": "37.07%",
+    "uptime": "37.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -491,7 +490,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 231,
+      "2025-06-07": 439,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -875,7 +874,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 231,
+      "2025-06-07": 439,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1259,7 +1258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 231,
+      "2025-06-07": 440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -1643,7 +1642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 231,
+      "2025-06-07": 440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
@@ -2027,7 +2026,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-06-07": 231,
+      "2025-06-07": 440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
