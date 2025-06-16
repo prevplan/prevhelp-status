@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prevhelp.de.ico",
     "slug": "prevhelp-de",
     "status": "down",
-    "uptime": "64.52%",
+    "uptime": "64.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-06-16": 115,
+      "2025-06-16": 243,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -388,19 +388,19 @@
     "url": "https://prevhelp.com",
     "icon": "https://icons.duckduckgo.com/ip3/prevhelp.com.ico",
     "slug": "prevhelp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "99.55%",
     "time": 421,
     "timeDay": 404,
     "timeWeek": 240,
-    "timeMonth": 383,
+    "timeMonth": 385,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-06-16": 44,
+      "2025-06-16": 45,
       "2025-06-15": 52,
       "2025-06-13": 17,
       "2025-06-12": 52,
@@ -469,7 +469,7 @@
       "2025-02-27": 61,
       "2025-02-26": 19,
       "2025-02-25": 45,
-      "2025-02-24": 21
+      "2025-02-24": 4
     }
   },
   {
@@ -489,7 +489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 115,
+      "2025-06-16": 244,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -873,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 115,
+      "2025-06-16": 244,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 115,
+      "2025-06-16": 244,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1641,7 +1641,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 115,
+      "2025-06-16": 244,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -2014,7 +2014,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tor-node",
     "status": "down",
-    "uptime": "55.49%",
+    "uptime": "55.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2025,7 +2025,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-06-16": 115,
+      "2025-06-16": 244,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
