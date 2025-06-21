@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2025-06-21": 53,
+      "2025-06-21": 173,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -388,19 +388,19 @@
     "url": "https://prevhelp.com",
     "icon": "https://icons.duckduckgo.com/ip3/prevhelp.com.ico",
     "slug": "prevhelp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "87.04%",
+    "uptimeDay": "89.53%",
+    "uptimeWeek": "87.02%",
     "uptimeMonth": "95.61%",
     "uptimeYear": "99.37%",
-    "time": 431,
+    "time": 432,
     "timeDay": 617,
     "timeWeek": 498,
     "timeMonth": 348,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2025-06-21": 51,
+      "2025-06-21": 52,
       "2025-06-20": 98,
       "2025-06-19": 36,
       "2025-06-18": 682,
@@ -466,7 +466,7 @@
       "2025-03-17": 19,
       "2025-03-13": 34,
       "2025-03-12": 16,
-      "2025-03-11": 58
+      "2025-03-11": 25
     }
   },
   {
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/termine.prevhelp.de.ico",
     "slug": "prev-help-termine",
     "status": "down",
-    "uptime": "36.60%",
+    "uptime": "36.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -486,7 +486,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 53,
+      "2025-06-21": 173,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -859,7 +859,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.prevhelp.de.ico",
     "slug": "prev-help-support",
     "status": "down",
-    "uptime": "38.37%",
+    "uptime": "38.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -870,7 +870,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 53,
+      "2025-06-21": 173,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -1254,7 +1254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 53,
+      "2025-06-21": 173,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -1638,7 +1638,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 53,
+      "2025-06-21": 173,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -2022,7 +2022,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2025-06-21": 53,
+      "2025-06-21": 173,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
